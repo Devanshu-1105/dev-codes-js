@@ -1,7 +1,17 @@
 //loops/iterations
 
 //for
-for (let index = 0; index < 250; index++) {
-   // const element = index;
-    console.log(index);
+// for (let i = 0; i <=10; i++) {
+//    const element = i;
+//    if (i===5) {
+//     console.log("5 is the best number");
+    
+//    }
+//     console.log(i);
+// }
+
+
+for (let i = 0; i <=10; i++) {
+    const element = array[i];
+    
 }
