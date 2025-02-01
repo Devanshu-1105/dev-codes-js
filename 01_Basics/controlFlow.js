@@ -30,6 +30,7 @@
 // nesting
 
 // const balance = 700
+if (balance < 500) console.log("test);  //implicit scope
 
 // if(balance < 500) {
 //     console.log("balance is less than 500");
