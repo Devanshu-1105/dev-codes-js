@@ -1,5 +1,7 @@
 //Control flow
 
+//< , > <=, <=, ==, != , ===
+
 //if
 // if(2!=25) {
 //     console.log("EXECUTED");
