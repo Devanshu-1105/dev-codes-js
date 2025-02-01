@@ -1,6 +1,6 @@
 //loops/iterations
 
-//for
+//for  i is declared in the condition of the loop and all the values are stored in that variable
 // for (let i = 0; i <=10; i++) {
 //    const element = i;
 //    if (i===5) {
