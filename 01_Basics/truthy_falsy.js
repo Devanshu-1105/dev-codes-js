@@ -33,6 +33,6 @@
 
 
 
-//Terniary operator
+//Terniary operator  will always execute the first block of code if the condition come to be true.
  const iceTeaPrice = 110;
  iceTeaPrice <= 100 ? console.log("less than 100"): console.log("more than 100")
