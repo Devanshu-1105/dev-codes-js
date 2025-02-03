@@ -56,7 +56,7 @@ for (const iterator of array) {
     //console.log(`the value is ${iterator}`);
     
 }
-const map = new Map ()
+const map = new Map ()  //maps are unitrateable.
 map.set('IN' ,"India")
 map.set('USA' ,"United States of America")
 map.set('Fr' ,"France")
