@@ -51,7 +51,7 @@ for(let i=0; i<=10; i++) {
 
 //for of 
 
-let array = [1,2,3,4,5,6]
+let array = [1,2,3,4,5,6]      //the iterator is just a variable that can be named anything, and the next condition is the array that we want to loop on.
 for (const iterator of array) {
     //console.log(`the value is ${iterator}`);
     
