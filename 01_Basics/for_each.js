@@ -5,6 +5,12 @@
 
 // })
 
+// function printMe(item) {
+//console.log(item)
+}
+coding.forEach(printMe) 
+    
+
 //How to access items inside an array object
 
 const myCoding =[
