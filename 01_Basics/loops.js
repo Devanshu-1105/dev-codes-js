@@ -38,6 +38,26 @@ for(let i=0; i<=10; i++) {
     
 //  }
 
+//break and continue
+
+
+for (let i = 0; i <= 10; i++) {
+  if (i == 5) {
+    console.log(`Detected 5`);
+    break;
+  }
+    console.log(i);
+}
+//Output: 0,1,2,3,4, Detected 5 the loop will end as soon as it detects 5
+
+for (let i = 0; i <= 10; i++) {
+  if (i == 5) {
+    console.log(`Detected 5`);
+    continue;
+  }
+    console.log(i);
+}
+//output:  0,1,2,3,4,Detected 5 ,6,7,8,9,10 the loop will skip one console.log and will move ahead
 
  // do while loop
  // in do while loop the work is done before the condition is checked
